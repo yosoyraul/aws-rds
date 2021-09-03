@@ -3,4 +3,4 @@ spins up AWS RDS database in MySQL for personal use, includes security group use
 
 requires secrets.tfvars to run without a prompt, once create run using:
 
-terraform plan/apply/destroy -var-file="secret.tfvars".
+## terraform plan/apply/destroy -var-file="secret.tfvars"
